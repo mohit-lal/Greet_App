@@ -18,7 +18,14 @@ samples, guidance on mobile development, and a full API reference.
 
 # Project Purpose
 
-This project was developed in accordance to the Final project of Completion of Post Graduate Degree in Mobile Solution Development from Conestoga College. The project members include Bharath Kumar Merugu, Mohit Lal and Mukunda Bhattarai.
+This project was developed in accordance to the Final project of Completion of Post Graduate Degree in Mobile Solution Development from Conestoga College. 
+
+#Project Members:
+
+The project members include:
+- Bharath Kumar Merugu
+- Mohit Lal 
+- Mukunda Bhattarai.
 
 # Demo Video 
 
