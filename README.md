@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 This project was developed in accordance to the Final project of Completion of Post Graduate Degree in Mobile Solution Development from Conestoga College. 
 
-#Project Members:
+# Project Members:
 
 The project members include:
 - Bharath Kumar Merugu
