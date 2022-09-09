@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "a2c1b43a5043cc21a1c5bafb8322a95d2234b53d346373612eef411ef89b6f2e"
+build_start_time: [1660251905, 998517990]
+build_end_time: [1660251906, 290469169]
+inputs:
+  "/Users/mohitlal/Desktop/My Space/Conestoga/4thSem/Capstone/greet_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1660251891, 49757003]
+  "/Users/mohitlal/Desktop/My Space/Conestoga/4thSem/Capstone/greet_app/macos/Runner/AppDelegate.swift": [1658850100, 273150205]
+  "/Users/mohitlal/Desktop/My Space/Conestoga/4thSem/Capstone/greet_app/macos/Runner/MainFlutterWindow.swift": [1658850100, 275677204]
