@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-## This project was developed in accordance to the Final project of Completion of Post Graduate Degree in Mobile Solution Development from Conestoga College. The project members include Bharath Kumar Merugu, Mohit Lal and Mukunda Bhattarai.
+# This project was developed in accordance to the Final project of Completion of Post Graduate Degree in Mobile Solution Development from Conestoga College. The project members include Bharath Kumar Merugu, Mohit Lal and Mukunda Bhattarai.
 
-#Demo Video can be found out as https://github.com/mohit-lal/Greet_App/blob/dev/Demo_Video.mp4
+# Demo Video can be found out as https://github.com/mohit-lal/Greet_App/blob/dev/Demo_Video.mp4
